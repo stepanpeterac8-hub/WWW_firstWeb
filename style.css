@@ -1,0 +1,80 @@
+body{ /* Celá stránka*/
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #d8d4b4;
+    font-family: Arial, sans-serif;
+
+}
+/* 1. Celá stránka */
+h1{
+    color: #154788;
+    font-size: 42px;
+    text-align: center;
+}
+h2{
+   color: #654040;
+    border-bottom: 2px solid #000000;
+}
+nav{ /*Vse pod nav*/
+    padding: 15px;
+    background: #6694d5;
+    border-radius: 15px;
+    text-align: center;
+}
+nav a {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    background-color: #5d468a;
+    color: #dcffa6;
+    text-decoration: none;
+    border-radius: 45px;
+}
+nav a:hover{
+    background: #73489e;
+}
+main{
+    margin-top:30px;
+}
+input{
+    background: transparent;
+}
+section{
+    padding: 20px;
+    background: #d6d66c;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+figure{
+    padding: 15px;
+    background: #001a6e;
+}
+figcaption{
+    color: #545842;
+    margin-top: 5px;
+    text-align: center;
+}
+
+/* 2. Nadpisy */
+
+
+/* 3. Navigace a odkazy */
+
+
+/* 4. Hlavní obsah a jednotlivé sekce */
+
+
+/* 5. Obrázky a jejich popisky */
+
+
+/* 6. Tabulka */
+
+
+/* 7. Zápatí */
+
